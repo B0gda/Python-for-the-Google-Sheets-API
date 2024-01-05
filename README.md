@@ -12,11 +12,14 @@ A Google account.
 ---
 ## Install the Google client library
 To install the Google client library for Python, run the following command:
->   pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+
+`pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib`
+
 ---
 ## Run
 From the command-line, execute the following command:
-> python main.py
+
+`python main.py`
 
 *optional*. If this is your first time running the sample, the sample opens a new window prompting you to authorize access to your data:
 
